@@ -1,6 +1,9 @@
 1: Pedir cantidad en numeros romanos.
+
 2: hacer un bucle que cuente cada una de las letras digitadas, con eso sumar a un contador.
+
 3: A base de condicionales dar un límite de veces para cada letra siguiendo el patrón de los números romanos.
+
 4: una ves hecho agregar una cadena de condiciones que marque las condiciones individuales de cada letra para validar los números.
 
 Pseudocódigo 
@@ -39,8 +42,13 @@ println("No es un numero romano")	repetir esto con cada uno con sus limites resp
 Caso de prueba:
 
 X = Verdadero.
+
 XXXX = Falso.
+
 XVIIII = FALSO.
+
 XVV = FALSO.
+
 XV = VERDADERO.
+
 XLIII = Verdadero.
